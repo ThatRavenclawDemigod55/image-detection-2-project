@@ -1,0 +1,22 @@
+body {
+    background-size: cover ;
+}
+
+h1 {
+    background-color: #dccee7;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    border-radius: 20px;
+    color:#222e58 ;
+}
+
+.btn {
+    color:#bebee0;
+    background-color: #2365af;
+}
+
+.footer {
+    color: #bebee0 ;
+}
